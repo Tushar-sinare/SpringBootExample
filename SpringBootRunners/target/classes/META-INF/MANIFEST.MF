@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: acer
+Build-Jdk: 19.0.1
+Implementation-Title: SpringBootRunners
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.app
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringBootRunners
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org/">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head><body>
+<h3>Welcome to All Records Page</h3>
+<table border="1">
+<tr>
+<th>ID</th>
+<th>CODE</th>
+<th>NAME</th>
+<th>TYPE</th>
+<th>SALARY</th>
+<th>ADDR</th>
+<th colspan="2">OPERATIONS</th>
+</tr>
+<tr th:each="ob:${list}">
+<td th:text="${ob.empId}"></td>
+<td th:text="${ob.empCode}"></td>
+<td th:text="${ob.empName}"></td>
+<td th:text="${ob.empType}"></td>
+<td th:text="${ob.empSal}"></td>
+<td th:text="${ob.addr}"></td>
+<td>
+<a th:href="@{/employee/view/{id}(id=${ob.empId})}">VIEW</a>
+</td>
+<td>
+<a th:href="@{/employee/delete/{id}(id=${ob.empId})}">DELETE</a>
+</td>
+</tr>
+</table>
+<span th:text="${message}"></span>
+</body></html>

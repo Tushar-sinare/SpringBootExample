@@ -1,0 +1,31 @@
+
+]
+java:S3599C",Use another way to initialize this instance.(Ú°Ä›úÿÿÿÿ8Œ÷„Şû0Hú:RMINORZBUG
+‘
+java:S1171D"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ßÓ‹İû0Hõ:RMAJORZ
+CODE_SMELL
+‘
+java:S1171J"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ßÓ‹İû0Hö:RMAJORZ
+CODE_SMELL
+
+java:S3305)"KInject this field value directly into "jobA", the only method that uses it.(ó‰Äç8–¯çÜû0H¶9RCRITICALZ
+CODE_SMELL
+‘
+java:S1171A"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ßÓ‹İû0Hô:RMAJORZ
+CODE_SMELL
+Œ
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰éÿ8ßÓ‹İû0Hò:RMINORZ
+CODE_SMELL
+‡
+java:S3305 "LInject this field value directly into "stepA", the only method that uses it.(ººã±şÿÿÿÿ8–¯çÜû0Hµ9RCRITICALZ
+CODE_SMELL
+X
+java:S3599I",Use another way to initialize this instance.(‚ÿƒ‹8Œ÷„Şû0Hû:RMINORZBUG
+Œ
+java:S2293a"YReplace the type specification in this constructor call with the diamond operator ("<>").(úÀ·‹8Œ÷„Şû0H÷:RMINORZ
+CODE_SMELL
+g
+java:S1611W"/Remove the parentheses around the "p" parameter(šõÔŸşÿÿÿÿ8Œ÷„Şû0Hü:RMINORZ
+CODE_SMELL
+X
+java:S3599@",Use another way to initialize this instance.(ğèîÒ8Œ÷„Şû0Hù:RMINORZBUG

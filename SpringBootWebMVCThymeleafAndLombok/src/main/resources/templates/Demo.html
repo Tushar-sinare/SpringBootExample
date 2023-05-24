@@ -1,0 +1,16 @@
+<html xmlns:th="http://www.thymeleaf.org/">
+<body><h3>Welcome to data Page</h3>
+<span th:text="${message}"></span>
+<table>
+ <tr>
+ <th>ID</th>
+ <th>NAME</th>
+ <th>SALARY</th>
+ </tr>
+ <tr th:each="ob:${list}">
+ <td th:text="${ob.empId}"></td>
+ <td th:text="${ob.empName}"></td>
+ <td th:text="${ob.empSal}"></td>
+ </tr>
+</table>
+</body></html>

@@ -1,0 +1,14 @@
+
+j
+java:S2629"7Use the built-in formatting to construct this argument.(Ğªû‚8«ùóåú0H“*RMAJORZ
+CODE_SMELL
+v
+java:S1659">Declare "b" and all following declarations on a separate line.(âËªíüÿÿÿÿ8ıäÎãú0Hà)RMINORZ
+CODE_SMELL
+t
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Ğªû‚8«ùóåú0H”*RMAJORZ
+CODE_SMELL
+}	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ĞÔÈ»ûÿÿÿÿ8˜×ƒæú0H›*RMAJORZ
+CODE_SMELL
+n	java:S125!"<This block of commented-out lines of code should be removed.(¼ôºá8˜×ƒæú0Hœ*RMAJORZ
+CODE_SMELL

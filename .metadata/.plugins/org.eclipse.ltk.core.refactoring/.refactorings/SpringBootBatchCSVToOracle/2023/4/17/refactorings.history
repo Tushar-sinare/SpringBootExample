@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.app.launche&apos; to &apos;com.app.launcher&apos;&#x0D;&#x0A;- Original project: &apos;SpringBootBatchCSVToOracle&apos;&#x0D;&#x0A;- Original element: &apos;SpringBootBatchCSVToOracle/src/main/java/com.app.launche&apos;&#x0D;&#x0A;- Renamed element: &apos;SpringBootBatchCSVToOracle/src/main/java/com.app.launcher&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.app.launche&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.app.launche" name="com.app.launcher" qualified="false" references="true" stamp="1682480664248" textual="false" version="1.0"/>
+</session>

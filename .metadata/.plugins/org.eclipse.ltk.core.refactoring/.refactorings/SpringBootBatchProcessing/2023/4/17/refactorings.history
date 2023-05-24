@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.app.SpringBootApplication.java&apos; to &apos;SpringBootBatchApplication.java&apos;&#x0D;&#x0A;- Original project: &apos;SpringBootBatchProcessing&apos;&#x0D;&#x0A;- Original element: &apos;com.app.SpringBootApplication.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.app.SpringBootBatchApplication.java&apos;" description="Rename compilation unit &apos;SpringBootApplication.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.app{SpringBootApplication.java" name="SpringBootBatchApplication.java" references="false" stamp="1682321775905" version="1.0"/>
+</session>

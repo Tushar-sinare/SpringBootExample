@@ -1,0 +1,15 @@
+package com.app;
+
+public class Display {
+
+	public static void main(String[] args) {
+		for(int i=0;i<100;i++) {
+			for(int j=i;j<=57 || j<=i;j++) {
+				System.out.println(j);
+				
+			}
+		}
+
+	}
+
+}

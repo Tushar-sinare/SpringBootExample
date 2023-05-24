@@ -1,0 +1,19 @@
+2023-04-23 11:42:45,885 INFO c.a.SpringBootLoggingApp [main] Starting SpringBootLoggingApp using Java 17.0.6 with PID 12700 (D:\SpringBootExample\SpringBootLogging\target\classes started by acer in D:\SpringBootExample\SpringBootLogging)
+2023-04-23 11:42:45,910 DEBUG c.a.SpringBootLoggingApp [main] Running with Spring Boot v3.0.6, Spring v6.0.8
+2023-04-23 11:42:45,916 INFO c.a.SpringBootLoggingApp [main] No active profile set, falling back to 1 default profile: "default"
+2023-04-23 11:43:29,788 INFO c.a.SpringBootLoggingApp [main] Starting SpringBootLoggingApp using Java 17.0.6 with PID 9052 (D:\SpringBootExample\SpringBootLogging\target\classes started by acer in D:\SpringBootExample\SpringBootLogging)
+2023-04-23 11:43:29,815 DEBUG c.a.SpringBootLoggingApp [main] Running with Spring Boot v3.0.6, Spring v6.0.8
+2023-04-23 11:43:29,819 INFO c.a.SpringBootLoggingApp [main] No active profile set, falling back to 1 default profile: "default"
+2023-04-23 11:43:33,094 INFO c.a.SpringBootLoggingApp [main] Started SpringBootLoggingApp in 4.362 seconds (process running for 7.429)
+2023-04-23 11:43:33,099 INFO c.a.r.Runner [main] Console Runner Starter
+2023-04-23 11:43:33,099 INFO c.a.r.Runner [main] Data init.. done
+2023-04-23 11:43:33,099 INFO c.a.r.Runner [main] if block executed
+2023-04-23 11:43:33,100 DEBUG c.a.r.Runner [main] Final Result is: 30
+2023-04-23 11:45:14,632 INFO c.a.SpringBootLoggingApp [main] Starting SpringBootLoggingApp using Java 17.0.6 with PID 3260 (D:\SpringBootExample\SpringBootLogging\target\classes started by acer in D:\SpringBootExample\SpringBootLogging)
+2023-04-23 11:45:14,726 DEBUG c.a.SpringBootLoggingApp [main] Running with Spring Boot v3.0.6, Spring v6.0.8
+2023-04-23 11:45:14,729 INFO c.a.SpringBootLoggingApp [main] No active profile set, falling back to 1 default profile: "default"
+2023-04-23 11:45:18,979 INFO c.a.SpringBootLoggingApp [main] Started SpringBootLoggingApp in 5.6 seconds (process running for 8.208)
+2023-04-23 11:45:18,995 INFO c.a.r.Runner [main] Console Runner Starter
+2023-04-23 11:45:18,995 INFO c.a.r.Runner [main] Data init.. done
+2023-04-23 11:45:18,996 INFO c.a.r.Runner [main] if block executed
+2023-04-23 11:45:18,998 DEBUG c.a.r.Runner [main] Final Result is: 30

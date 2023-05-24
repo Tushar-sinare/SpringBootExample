@@ -1,0 +1,7 @@
+com\app\controller\ProductController.class
+com\app\util\EmailUtil.class
+com\app\service\impl\ProductServiceImpl.class
+com\app\service\ProductService.class
+com\app\repo\ProductRepository.class
+com\app\SpringBootEmailConfirmation.class
+com\app\model\Product.class

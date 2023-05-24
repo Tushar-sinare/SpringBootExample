@@ -1,0 +1,15 @@
+
+T
+java:S1116N"Remove this empty statement.(Åñ­õşÿÿÿÿ8ÀüóÈú0H“%RMINORZ
+CODE_SMELL
+x	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(À¹ü®8ÕºïÈú0HŠ%RMAJORZ
+CODE_SMELL
+
+java:S1192"IDefine a constant instead of duplicating this literal "employee" 3 times.(ôáÇ¯8ÀüóÈú0H%RCRITICALZ
+CODE_SMELL
+Ÿ
+java:S11302"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(À¹ü®8ÕºïÈú0H‹%RMINORZ
+CODE_SMELL
+}
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ä¯À8ä½Éú0H¬%RMINORZ
+CODE_SMELL

@@ -1,0 +1,12 @@
+
+~
+java:S1192"HDefine a constant instead of duplicating this literal "product" 3 times.(Ã€Â8„ğØìú0H³-RCRITICALZ
+CODE_SMELL
+„
+java:S1192"IDefine a constant instead of duplicating this literal "Register" 3 times.(˜ì¦úÿÿÿÿ8„ğØìú0H·-RCRITICALZ
+CODE_SMELL
+}
+java:S4488""JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ışİÿ8Ì’¦ìú0Hª-RMINORZ
+CODE_SMELL
+	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡æŞ*8„ğØìú0H»-RMINORZ
+CODE_SMELL

@@ -1,0 +1,10 @@
+
+}
+java:S1192"HDefine a constant instead of duplicating this literal "product" 3 times.(Ýž¢8ÞºÎ¹ú0HÈ!RCRITICALZ
+CODE_SMELL
+„
+java:S1192"IDefine a constant instead of duplicating this literal "Register" 3 times.(ž˜ì¦úÿÿÿÿ8ÞºÎ¹ú0HÌ!RCRITICALZ
+CODE_SMELL
+}
+java:S4488!"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ýþÝÿ8ÞºÎ¹ú0HÐ!RMINORZ
+CODE_SMELL

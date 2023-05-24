@@ -1,0 +1,12 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.Enum"><rhs name\="jakarta.persistence.GenerationType"/><rhs name\="org.springframework.web.bind.annotation.RequestMethod"/><rhs name\="com.hazelcast.config.MaxSizeConfig$MaxSizePolicy"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="jakarta.persistence.GenerationType"/><rhs name\="org.springframework.web.bind.annotation.RequestMethod"/><rhs name\="com.hazelcast.config.MaxSizeConfig$MaxSizePolicy"/></lhs><lhs name\="org.springframework.batch.core.JobParametersIncrementer"><rhs name\="org.springframework.batch.core.launch.support.RunIdIncrementer"/></lhs><lhs name\="org.springframework.core.io.InputStreamSource"><rhs name\="org.springframework.core.io.ClassPathResource"/></lhs><lhs name\="org.springframework.core.io.Resource"><rhs name\="org.springframework.core.io.ClassPathResource"/></lhs><lhs name\="org.springframework.batch.item.file.LineMapper"><rhs name\="org.springframework.batch.item.file.mapping.DefaultLineMapper"/></lhs><lhs name\="org.springframework.batch.item.database.ItemSqlParameterSourceProvider"><rhs name\="org.springframework.batch.item.database.BeanPropertyItemSqlParameterSourceProvider"/></lhs><lhs name\="com.app.model.Product"><rhs name\="com.app.model.Product"/></lhs><lhs name\="com.hazelcast.nio.serialization.DataSerializable"><rhs name\="com.hazelcast.config.MaxSizeConfig"/></lhs><lhs name\="com.hazelcast.config.MaxSizeConfig"><rhs name\="com.hazelcast.config.MaxSizeConfig"/></lhs></history>
+content_assist_number_of_computers=19
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

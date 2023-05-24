@@ -1,0 +1,11 @@
+#spring:
+#  datasource:
+#    username: JAVA
+#    password: JAVA
+#    url: jdbc:oracle:thin:@localhost:1521:xe
+#    driver-class-name: oracle.jdbc.driver.OracleDriver
+#jpa:
+#  show-sql: true
+#  hibernate:
+#    ddl-auto: update
+#  properties.hibernate.dialect: org.hibernate.dialect.Oracle10gDialect

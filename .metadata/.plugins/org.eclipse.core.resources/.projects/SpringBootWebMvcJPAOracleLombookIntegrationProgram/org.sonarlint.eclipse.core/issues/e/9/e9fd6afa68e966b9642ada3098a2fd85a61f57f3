@@ -1,0 +1,13 @@
+
+}
+java:S1192!"HDefine a constant instead of duplicating this literal "product" 3 times.(İ¢8Ñ¥¥×ù0Hü"RCRITICALZ
+CODE_SMELL
+}
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ8“şö¼ú0H‚#RMINORZ
+CODE_SMELL
+}
+java:S4488%"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ışİÿ8‘õ¨ú0H€#RMINORZ
+CODE_SMELL
+„
+java:S1192""IDefine a constant instead of duplicating this literal "Register" 3 times.(˜ì¦úÿÿÿÿ8Ñ¥¥×ù0Hø"RCRITICALZ
+CODE_SMELL
